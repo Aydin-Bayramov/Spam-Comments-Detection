@@ -1,6 +1,6 @@
 # YouTube Comment Spam Detection
 
-This project demonstrates how to use machine learning to classify YouTube comments as spam or not spam. The classification is based on textual features extracted from the comment content.
+This project demonstrates how to use machine learning to classify YouTube comments as spam or not spam. The classification is based on text features extracted from the comment content in Azerbaijani
 
 ## Libraries Used
 

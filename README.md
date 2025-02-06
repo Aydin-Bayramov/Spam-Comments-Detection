@@ -37,9 +37,3 @@ A Naive Bayes classifier (`MultinomialNB`) is used for spam detection.
 - **Training Accuracy**: 99.29%
 - **Test Accuracy**: 95.71%
 
-## Spam Detection Example
-
-Given the input:
-
-```text
-Bu videoya baxın və dərhal 1000 manat qazanmaq şansını əldə edin! Linkə klikləyin!
